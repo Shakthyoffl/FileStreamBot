@@ -42,9 +42,7 @@
 
 
    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-  <a href="https://heroku.com/deploy?template=https://github.com/Shakthyoffl/FileStreamBot">
-<img src="https://www.herokucdn.com/deploy/button.svg" alt="DEPLOY ON HEROKU">
-</a>
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shakthyoffl/FileStreamBot)
 - Go to <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
 
 <details>
